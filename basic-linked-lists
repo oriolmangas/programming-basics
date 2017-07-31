@@ -1,4 +1,4 @@
-#Basic Linked Lists
+#Basic Linked Lists - Python
 
 
 class Element(object):
